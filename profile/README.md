@@ -4,4 +4,6 @@
   <p align="center">   
   Espruino tools are a set of node packages built with the aim to make development on espruino devices as easy as possible.
   </p>
+  <br/>
+  <p align="center"><a href="https://documentation-espruino-tools.vercel.app/">visit documentation here</a></p>
 </p>
